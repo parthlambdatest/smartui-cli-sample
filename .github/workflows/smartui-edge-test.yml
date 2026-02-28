@@ -17,16 +17,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Edge 139
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y curl
-          curl -L -o /tmp/edge.deb 'https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_139.0.3405.86-1_amd64.deb'
-          sudo apt-get install -y --allow-downgrades /tmp/edge.deb
-          rm /tmp/edge.deb
-          sudo apt-get clean
-          microsoft-edge-stable --version
-
       - name: Install dependencies
         run: npm install
 
