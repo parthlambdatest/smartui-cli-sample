@@ -1,6 +1,32 @@
 [
-  {
-    "name": "example-page",
-    "url": "https://example.com/"
-  }
+    {
+        "name": "cfainstitute.org/about/governance/committees/people-culture-committee",
+        "pageEvent": "domcontentloaded",
+        "url": "https://cfainstitute.org/about/governance/committees/people-culture-committee"
+    },
+    {
+        "name": "cfainstitute.org/about/press-room/2019/72nd-annual-conference-2019",
+        "pageEvent": "domcontentloaded",
+        "url": "https://cfainstitute.org/about/press-room/2019/72nd-annual-conference-2019"
+    },
+    {
+        "name": "cfainstitute.org/about/press-room/2023/industry-ai-handbook",
+        "pageEvent": "domcontentloaded",
+        "url": "https://cfainstitute.org/about/press-room/2023/industry-ai-handbook"
+    },
+    {
+        "name": "cfainstitute.org/about/press-room/2024/smart-beta-index-strategies-framework",
+        "pageEvent": "domcontentloaded",
+        "url": "https://cfainstitute.org/about/press-room/2024/smart-beta-index-strategies-framework"
+    },
+    {
+        "name": "cfainstitute.org/business/hire",
+        "pageEvent": "domcontentloaded",
+        "url": "https://cfainstitute.org/business/hire"
+    },
+    {
+        "name": "cfainstitute.org/about/press-room/2015/cfa-institute-opens-first-china-office",
+        "pageEvent": "domcontentloaded",
+        "url": "https://cfainstitute.org/about/press-room/2015/cfa-institute-opens-first-china-office"
+    }
 ]
